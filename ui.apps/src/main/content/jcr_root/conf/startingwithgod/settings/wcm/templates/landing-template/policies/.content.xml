@@ -4,7 +4,7 @@
     <jcr:content
         jcr:primaryType="nt:unstructured"
         sling:resourceType="wcm/core/components/policies/mappings">
-        <content-parsys
+        <content-grid
             cq:policy="startingwithgod/core/components"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/core/components/policies/mapping"/>
