@@ -19,10 +19,10 @@
                     mergeList="{Boolean}true"/>
             </components>
             <experience-fragments
-                    components="[group:Cru.Core,/libs/cq/experience-fragments/editor/components/experiencefragment,/libs/cq/experience-fragments/editor/components/buildingblock,/libs/dam/cfm/components/contentfragment]"
-                    jcr:primaryType="nt:unstructured"
-                    jcr:title="Startingwithgod Core Components"
-                    sling:resourceType="wcm/core/components/policy/policy">
+                components="[group:Cru.Core,/libs/cq/experience-fragments/editor/components/experiencefragment,/libs/cq/experience-fragments/editor/components/buildingblock,/libs/dam/cfm/components/contentfragment]"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Startingwithgod Core Components"
+                sling:resourceType="wcm/core/components/policy/policy">
                 <cq:authoring jcr:primaryType="nt:unstructured">
                     <assetToComponentMapping jcr:primaryType="nt:unstructured">
                         <image
@@ -55,8 +55,8 @@
                     </assetToComponentMapping>
                 </cq:authoring>
                 <jcr:content
-                        jcr:primaryType="nt:unstructured"
-                        mergeList="{Boolean}true"/>
+                    jcr:primaryType="nt:unstructured"
+                    mergeList="{Boolean}true"/>
             </experience-fragments>
         </core>
     </startingwithgod>
